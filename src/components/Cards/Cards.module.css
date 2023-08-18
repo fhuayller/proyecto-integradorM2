@@ -1,0 +1,9 @@
+.card {
+    min-height: 100vh;
+    background-image: url("/Users/macbook/Desktop/Mis proyectos y practicas/rick_and_morty/src/img/maxresdefault.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* mantiene la imagen de fondo estatica */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,29 @@
+.navbar {
+    background-color: rgb(25, 25, 25); /* Color de fondo del navBar */
+    padding: 10px; /* Espaciado interno del navBar */
+  }
+
+  .navLeft {
+    display: flex;
+    align-items: center;
+    justify-content: left; /* ajusta el contenido horizontal en el componente */
+  }
+
+  .navRight{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-top: -22px;
+    margin-right: 40px;
+  }
+
+  .navButton{
+    margin-right: 10px;
+    background-color: #16c00ddf; /* Cambiar el color de fondo */
+    color: #ffffff; /* Cambiar el color del texto */
+    border: none; /* Eliminar el borde */
+    padding: 5px 10px; /* Añadir espacio interno */
+    border-radius: 5px; /* Agregar bordes redondeados */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }

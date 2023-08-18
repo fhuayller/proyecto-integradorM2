@@ -1,0 +1,24 @@
+.detailContainer{
+    min-height: 100vh;
+    background-image: url("/Users/macbook/Desktop/Mis proyectos y practicas/rick_and_morty/src/img/maxresdefault.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* mantiene la imagen de fondo estatica */
+    justify-content: center;
+}
+.data{
+    color: rgb(228, 226, 226);
+    font-size:large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cardContainer{
+    background-color: rgba(35, 35, 35, 0.899);
+    margin: 5px;
+    width: 300px;
+    height: 360px; 
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+.img{
+    width: 150px;
+}

@@ -1,0 +1,10 @@
+.favContainer{
+    background-color: rgb(72, 72, 72);
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.letras{
+    color: white
+}

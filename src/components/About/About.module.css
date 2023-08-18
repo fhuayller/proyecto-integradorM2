@@ -1,0 +1,20 @@
+.image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.aboutContainer{
+    background-color: rgb(35, 35, 35);
+    min-height: 100vh;
+    object-fit: cover;
+}
+
+.letras{
+    color: rgb(235, 234, 234);
+}
+.titulo{
+    color: rgb(235, 234, 234);
+    margin-top: 0.5px;
+}

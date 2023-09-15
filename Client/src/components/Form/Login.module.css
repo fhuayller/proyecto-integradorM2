@@ -1,0 +1,31 @@
+.formContainer{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.3)),url("C:\Users\fhuay\OneDrive\Escritorio\Henry\RyM\proyecto-integradorM2\Client\src\img\rick-and-morty-cartoons-tv-shows-hd-wallpaper-preview.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.letras{
+    color: white;
+}
+
+.input{
+    border-color: green;
+    background-color: hsla(80, 100%, 40%, 0.913);
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.submit{
+        background-color: #16c00ddf; /* Cambiar el color de fondo */
+        color: #ffffff; /* Cambiar el color del texto */
+        border: none; /* Eliminar el borde */
+        padding: 5px 10px; /* Añadir espacio interno */
+        border-radius: 5px; /* Agregar bordes redondeados */
+        cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        margin-top: 10px;
+}
